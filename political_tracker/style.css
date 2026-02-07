@@ -1,0 +1,48 @@
+body {
+     font-family: 
+    sans-serif; 
+    margin: 20px;
+     background: #f4f4f4;
+     }
+
+.container {
+     background: white; 
+     padding: 20px;
+      border-radius: 8px;
+       max-width: 800px; 
+       margin: auto;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+     }
+table { 
+    width: 100%;
+     border-collapse: collapse; 
+     margin-top: 10px; 
+    }
+th, td { border: 1px solid #ddd;
+     padding: 8px;
+      text-align: left; 
+    }
+th { background-color: #007bff;
+     color: white; 
+    }
+.btn {
+     padding: 5px 10px; 
+     background: #28a745; 
+     color: white; 
+     text-decoration: none;
+      border-radius: 4px;
+     }
+.btn-back { 
+    background: #6c757d;
+ }
+.status-เงียบหาย { 
+    color: red;
+     font-weight: bold;
+     }
+.status-กำลังดำเนินการ { 
+    color: orange; 
+    font-weight: bold; 
+}
+.status-ยังไม่เริ่ม { 
+    color: gray;
+}
